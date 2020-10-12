@@ -34,7 +34,7 @@ Source code will not be uploaded.
 
 Feel free to download those videos.
 
-Do not upload videos elsewhere without my agreement. Thanks
+Do not upload videos elsewhere without my permission. Thanks
 
 All rights reserved.
 
