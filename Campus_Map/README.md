@@ -1,4 +1,6 @@
 # CSE 331 Final project:
+An online interactive map that allows user to find the shortest path between two buildings on UW Seattle Campus
+
 Implemented with Java
 
 ### Highlights
