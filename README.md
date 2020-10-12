@@ -4,7 +4,7 @@ My name is Yukai and I am currently a senior studying at the University of Washi
 
 This is a repository for course projects I have done as a CSE student at Allen School. 
 
-Feel free to click any folders you interested in and enjoy :)
+Please feel free to click any folders you interested in and enjoy :)
 
 ### 1. Disclaimer
 
