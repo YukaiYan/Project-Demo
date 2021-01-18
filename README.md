@@ -22,19 +22,20 @@ Source code will not be uploaded.
   CSE 341: Programming Languages
   CSE 344: Introduction to Data management
   CSE 351: The Hardware/Software Interface
+  CSE 401: Compiler Construction
   CSE 421: Introduction to Algorithms
-  
-  CSE 401: Compiler Construction (current)
-  CSE 484: Computer Security (current)
+  CSE 484: Computer Security
   ```
-  Update Date: Autumn 2020
+  CSE 452: Distributed System
+  
+  CSE 473: Artificial Intelligence
+  
+  Update Date: Winter 2021
 
 
 ### 3. Copyright
 
-Feel free to download those videos.
-
-Do not upload videos elsewhere without my permission. Thanks
+Do not upload videos elsewhere without my permission.
 
 All rights reserved.
 
